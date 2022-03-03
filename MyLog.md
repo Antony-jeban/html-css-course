@@ -5,3 +5,4 @@
     Done with the CSS fundamentals - 02 March 2022
     - Done with the float layout - 03 March 2022
     - Started with the flex layout
+    -  Done with the flex layout then started the grid layout.
