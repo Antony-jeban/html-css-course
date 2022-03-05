@@ -7,3 +7,9 @@
     - Started with the flex layout
     -  Done with the flex layout then started the grid layout.
     - Done with the grid layout today - 4 march 2022
+
+
+
+# Useful links
+
+-Typography https://type-scale.com/
