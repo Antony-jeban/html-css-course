@@ -12,4 +12,14 @@
 
 # Useful links
 
+- Complete toolkit page: https://codingheroes.io/resources/ 
+
 -Typography https://type-scale.com/
+
+Colors
+ -https://tailwindcss.com/
+ - Open color https://yeun.github.io/open-color/
+ - Flat UI colors 2 https://flatuicolors.com/
+ - Tint shades generator
+ - palleton.com
+ - coolers
