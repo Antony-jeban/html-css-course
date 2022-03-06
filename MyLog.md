@@ -23,3 +23,6 @@ Colors
  - Tint shades generator
  - palleton.com
  - coolers
+
+Icons:
+    - https://heroicons.com/ - Hero icons
