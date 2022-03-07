@@ -7,6 +7,8 @@
     - Started with the flex layout
     -  Done with the flex layout then started the grid layout.
     - Done with the grid layout today - 4 march 2022
+    - Moving on to the components
+        a) Done with the accordion - included js code as well - Mar 7
 
 
 
