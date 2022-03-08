@@ -11,6 +11,7 @@
         a) Done with the accordion - included js code as well - Mar 7
         b) Done with carousel now moving on to tables
         c) Building tables is done already then i have to move on to pagination component
+        d) Done with the pagination part of the implementation
 
 
 
