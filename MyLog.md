@@ -9,6 +9,7 @@
     - Done with the grid layout today - 4 march 2022
     - Moving on to the components
         a) Done with the accordion - included js code as well - Mar 7
+        b) Done with carousel now moving on to tables
 
 
 
